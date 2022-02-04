@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordandescharles
-- 👀 I’m interested in webdev Front
-- 🌱 I’m currently learning javascript and node
+- 👀 I’m interested in Front Developement 
+- 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : descharlesjordan@yahoo.fr
 
