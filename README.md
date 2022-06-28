@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : descharlesjordan@yahoo.fr
-- My portfolio : jordandescharles.fr
+- My portfolio : http://jordandescharles.fr/
 
 -> Currently Learning with OpenClassRooms you can check my projects (11/14) :)
 
