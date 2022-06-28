@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : descharlesjordan@yahoo.fr
+- My portfolio : jordandescharles.fr
 
--> Currently Learning with OpenClassRooms you can check my projects (13/14) :)
+-> Currently Learning with OpenClassRooms you can check my projects (11/14) :)
 
 <!---
 jordandescharles/jordandescharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
