@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @jordandescharles
 - 👀 I’m interested in Front Developement 
-- 🌱 I’m currently learning javascript and React
+- 🌱 I’m currently learning PWA 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : descharlesjordan@yahoo.fr
 - My portfolio : http://jordandescharles.fr/
 
--> Currently Learning with OpenClassRooms you can check my projects (11/14) :)
+-> Currently working for Goweb Roubaix :)
 
 <!---
 jordandescharles/jordandescharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
